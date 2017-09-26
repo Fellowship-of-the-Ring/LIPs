@@ -1,0 +1,1 @@
+When opening a pull request to submit a new LIP, please use the suggested template: (https://github.com/loopring/LIPs/blob/master/lip-X.md)[https://github.com/loopring/LIPs/blob/master/lip-X.md]
